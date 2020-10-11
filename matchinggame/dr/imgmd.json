@@ -1,0 +1,10 @@
+cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={ 
+"dr/4463_99_91.png": "img1.json",
+"dr/4471_89_69.png": "img1.json",
+"dr/4485_96_96.png": "img1.json",
+"dr/Failure_Shape_1.png": "img1.json",
+"dr/Hint_Shape_1.png": "img1.json",
+"dr/Screen Shot 2020-10-11 at 2.03.45 PM.png": "img1.json",
+"dr/SmartShape_1.png": "img1.json",
+"dr/Success_Shape_1.png": "img1.json",
+"___":"___"};
